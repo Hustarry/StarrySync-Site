@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>StarrySync</title>
+      <link>https://hustarry.github.io/StarrySync-Site</link>
+      <description>最近的10条笔记 on StarrySync</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>未命名</title>
+    <link>https://hustarry.github.io/StarrySync-Site/%E6%9C%AA%E5%91%BD%E5%90%8D.base</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/%E6%9C%AA%E5%91%BD%E5%90%8D.base</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:27:48 GMT</pubDate>
+  </item><item>
+    <title>物理笔记</title>
+    <link>https://hustarry.github.io/StarrySync-Site/%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0/</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:27:48 GMT</pubDate>
+  </item><item>
+    <title>笔记</title>
+    <link>https://hustarry.github.io/StarrySync-Site/%E7%AC%94%E8%AE%B0/</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/%E7%AC%94%E8%AE%B0/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:27:48 GMT</pubDate>
+  </item><item>
+    <title>标签索引</title>
+    <link>https://hustarry.github.io/StarrySync-Site/tags/</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:27:48 GMT</pubDate>
+  </item><item>
+    <title>StarrySync</title>
+    <link>https://hustarry.github.io/StarrySync-Site/</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/</guid>
+    <description><![CDATA[ 物理、研究与持续积累的学术笔记。 ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:27:43 GMT</pubDate>
+  </item><item>
+    <title>sync检查</title>
+    <link>https://hustarry.github.io/StarrySync-Site/sync%E6%A3%80%E6%9F%A5</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/sync%E6%A3%80%E6%9F%A5</guid>
+    <description><![CDATA[ i love you this is a Newzealand scene image. ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:04:49 GMT</pubDate>
+  </item><item>
+    <title>同步验收</title>
+    <link>https://hustarry.github.io/StarrySync-Site/%E5%90%8C%E6%AD%A5%E9%AA%8C%E6%94%B6</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/%E5%90%8C%E6%AD%A5%E9%AA%8C%E6%94%B6</guid>
+    <description><![CDATA[ StarrySync 同步验收 这篇笔记用于检查 StarrySync Vault 的文字、附件和 GitHub Markdown 预览。第一段与第二段之间保留一个空行。 这是第二段。下图引用本库已有的附件，使用标准 Markdown 相对链接；图片与笔记将通过同一个私人 GitHub 仓库同步。 验收记录 检查本地提交与远程 main 分支是否一致。 使用另一个本地目录克隆，核对笔记和图片内容。 用 Obsidian Git 的 Commit-and-sync 命令验证插件真实推送。 手动验证通过后，将自动提交并同步周期设为 10 分钟。 插件手动同步验收：此行由本机加入，随后通过 Obsi... ]]></description>
+    <pubDate>Fri, 13 Nov 2026 07:02:12 GMT</pubDate>
+  </item><item>
+    <title>StarrySync 同步使用说明</title>
+    <link>https://hustarry.github.io/StarrySync-Site/starrysync-%E5%90%8C%E6%AD%A5%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/starrysync-%E5%90%8C%E6%AD%A5%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E</guid>
+    <description><![CDATA[ StarrySync Vault 同步使用说明 日常笔记库：D:\obsidianVault\StarrySync Vault。 原始初始库：D:\obsidianVault\Obsidian Vault，保留迁移时的内容，不参与这套 Git 同步。迁移前的完整 ZIP 位于 D:\obsidianVault-Backups。 GitHub 私人仓库：github.com/Hustarry/StarrySync-Vault 日常操作 打开 StarrySync Vault。Git 插件会在启动时拉取。 编辑笔记、粘贴图片。新附件存入 image，链接使用 Markdown 相对路径。 需要立即... ]]></description>
+    <pubDate>Fri, 13 Nov 2026 06:52:34 GMT</pubDate>
+  </item><item>
+    <title>20261105</title>
+    <link>https://hustarry.github.io/StarrySync-Site/20261105</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/20261105</guid>
+    <description><![CDATA[ 接机前，先准备好确认位置、找到对方的句子： 你想表达可以直接说我是 Starry，我会在到达大厅等您。Hi, Dr. Tasco. This is Starry. ]]></description>
+    <pubDate>Fri, 13 Nov 2026 06:39:28 GMT</pubDate>
+  </item><item>
+    <title>20261106</title>
+    <link>https://hustarry.github.io/StarrySync-Site/20261106</link>
+    <guid>https://hustarry.github.io/StarrySync-Site/20261106</guid>
+    <description><![CDATA[ IELTS 7.0 多义词训练课 · 第一讲 本讲学习内容 Lesson 01 20 个核心学术动词 核心语义 · 词义延伸 · 高频搭配 · 阅读例句 · 翻译训练 20 核心多义词 5 重点语义训练 第一组：从“形成、建立、发展”理解单词 1. ]]></description>
+    <pubDate>Fri, 13 Nov 2026 06:39:28 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
